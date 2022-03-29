@@ -4,7 +4,7 @@ public class XUrlMain {
 
   public static void main(String[] args) {
 
-    XUrl xUrl = new XUrlImpl();
+    XUrl xUrl =  new XUrlimpl();
 
     // Test the Short Url Implementation by registering long URLs and looking up short URLs
     
